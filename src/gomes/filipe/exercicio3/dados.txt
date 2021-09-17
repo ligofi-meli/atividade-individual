@@ -1,0 +1,17 @@
+Em geral os rodapés têm entre 10 e 15 centímetros. Então, para saber quanto comprar, você deve decidir qual a altura
+que deseja no acabamento e multiplicar pela medida de cada parede.
+
+Utilizando o exemplo anterior, de um cômodo de 4 m x 3 m e um rodapé de 0,15 m (ou seja, 15 cm), multiplique esse valor
+pela largura e comprimento, que dará o resultado de 0,6 m² para a parede maior e 0,45 m² para a outra.
+Assim, soma-se os resultados e multiplica-se por dois, já que temos duas paredes de cada
+tamanho no cômodo: (0,6 + 0,45) × 2 = 2,1 m².
+
+Atenção para a conta ficar correta, é preciso que você utilize todas as medidas sempre na mesma unidade, ou seja, tudo
+em centímetros ou tudo em metros. Para transformar centímetros em metros, basta dividir por 100: 15/100 = 0,15 m.
+
+Significa, portanto, que no nosso exemplo, precisaremos de, no mínimo, 2,1 m² de piso para os rodapés, além do que
+já se calculou para o chão.
+
+Acontece que no processo de colocação, tanto dos pisos, quanto rodapés e revestimentos, é preciso cortar algumas
+peças e pode acontecer de algumas lascarem, racharem ou quebrarem. Por isso, é preciso sempre comprar de
+10% a 15% a mais do que você calculou.
